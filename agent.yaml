@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,slack.com
+  - DOMAIN-KEYWORD,claude
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,withgoogle.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-KEYWORD,anthropi
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,google.com
