@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,release-assets.githubusercontent.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,vscode-cdn.net
