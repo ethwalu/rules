@@ -1,13 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,release-assets.githubusercontent.com
   - DOMAIN-SUFFIX,swcdn.apple.com
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,vscode-cdn.net
-  - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,ghcr.io
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,unpkg.com
-  - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,cdn-apple.com
